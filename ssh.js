@@ -1,1 +1,1 @@
-console.log('SSH Key Added Successfully');
+console.log('SSH Key Deleted Successfully');
